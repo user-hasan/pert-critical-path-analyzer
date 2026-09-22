@@ -91,6 +91,7 @@ See [config.json](config.json): OCR engine/languages, CV thresholds, analysis en
 ## Reports
 
 - [ARCHITECTURE.md](ARCHITECTURE.md) — full architecture document
+- [ARCHITECTURE_AR.md](ARCHITECTURE_AR.md) — وثيقة البنية بالعربية (Arabic version)
 - [PIPELINE_REPORT.md](PIPELINE_REPORT.md) — latest end-to-end run results
 - [docs/](docs) — phase and acceptance reports
 
