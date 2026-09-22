@@ -1,0 +1,370 @@
+[
+  {
+    "repr": "gray_3x",
+    "psm": 6,
+    "text": "O Jal 3 ax",
+    "conf": 48.5,
+    "items": [
+      [
+        "O",
+        73
+      ],
+      [
+        "Jal",
+        39
+      ],
+      [
+        "3",
+        41
+      ],
+      [
+        "ax",
+        41
+      ]
+    ]
+  },
+  {
+    "repr": "gray_3x",
+    "psm": 8,
+    "text": "face |",
+    "conf": 60.0,
+    "items": [
+      [
+        "face",
+        42
+      ],
+      [
+        "|",
+        78
+      ]
+    ]
+  },
+  {
+    "repr": "gray_3x",
+    "psm": 10,
+    "text": "face",
+    "conf": 42.0,
+    "items": [
+      [
+        "face",
+        42
+      ]
+    ]
+  },
+  {
+    "repr": "gray_3x",
+    "psm": 11,
+    "text": "CAR SAD JS 3 ax",
+    "conf": 35.0,
+    "items": [
+      [
+        "CAR",
+        30
+      ],
+      [
+        "SAD",
+        18
+      ],
+      [
+        "JS",
+        45
+      ],
+      [
+        "3",
+        41
+      ],
+      [
+        "ax",
+        41
+      ]
+    ]
+  },
+  {
+    "repr": "gray_3x",
+    "psm": 13,
+    "text": "face |",
+    "conf": 60.0,
+    "items": [
+      [
+        "face",
+        42
+      ],
+      [
+        "|",
+        78
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 6,
+    "text": "Oo CAT SAR JAS",
+    "conf": 42.25,
+    "items": [
+      [
+        "Oo",
+        40
+      ],
+      [
+        "CAT",
+        51
+      ],
+      [
+        "SAR",
+        14
+      ],
+      [
+        "JAS",
+        64
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 8,
+    "text": "f a |",
+    "conf": 48.666666666666664,
+    "items": [
+      [
+        "f",
+        19
+      ],
+      [
+        "a",
+        46
+      ],
+      [
+        "|",
+        81
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 10,
+    "text": "fan",
+    "conf": 17.0,
+    "items": [
+      [
+        "fan",
+        17
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 11,
+    "text": "CAT EAR JAS",
+    "conf": 36.666666666666664,
+    "items": [
+      [
+        "CAT",
+        16
+      ],
+      [
+        "EAR",
+        16
+      ],
+      [
+        "JAS",
+        78
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 13,
+    "text": "f a |",
+    "conf": 48.666666666666664,
+    "items": [
+      [
+        "f",
+        19
+      ],
+      [
+        "a",
+        46
+      ],
+      [
+        "|",
+        81
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 6,
+    "text": "CAT EAR JAS",
+    "conf": 40.0,
+    "items": [
+      [
+        "CAT",
+        48
+      ],
+      [
+        "EAR",
+        11
+      ],
+      [
+        "JAS",
+        61
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 8,
+    "text": "f a |",
+    "conf": 50.333333333333336,
+    "items": [
+      [
+        "f",
+        20
+      ],
+      [
+        "a",
+        51
+      ],
+      [
+        "|",
+        80
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 10,
+    "text": "f atm",
+    "conf": 38.5,
+    "items": [
+      [
+        "f",
+        37
+      ],
+      [
+        "atm",
+        40
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 11,
+    "text": "CAT EAR JAS",
+    "conf": 29.333333333333332,
+    "items": [
+      [
+        "CAT",
+        6
+      ],
+      [
+        "EAR",
+        6
+      ],
+      [
+        "JAS",
+        76
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 13,
+    "text": "f a |",
+    "conf": 50.333333333333336,
+    "items": [
+      [
+        "f",
+        20
+      ],
+      [
+        "a",
+        51
+      ],
+      [
+        "|",
+        80
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 6,
+    "text": "oO CAT JAS Sex",
+    "conf": 59.75,
+    "items": [
+      [
+        "oO",
+        39
+      ],
+      [
+        "CAT",
+        73
+      ],
+      [
+        "JAS",
+        61
+      ],
+      [
+        "Sex",
+        66
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 8,
+    "text": "(e>]",
+    "conf": 12.0,
+    "items": [
+      [
+        "(e>]",
+        12
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 10,
+    "text": "(e>]",
+    "conf": 12.0,
+    "items": [
+      [
+        "(e>]",
+        12
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 11,
+    "text": "CATySAT JAS Sex",
+    "conf": 59.333333333333336,
+    "items": [
+      [
+        "CATySAT",
+        33
+      ],
+      [
+        "JAS",
+        79
+      ],
+      [
+        "Sex",
+        66
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 13,
+    "text": "(e>]",
+    "conf": 12.0,
+    "items": [
+      [
+        "(e>]",
+        12
+      ]
+    ]
+  }
+]

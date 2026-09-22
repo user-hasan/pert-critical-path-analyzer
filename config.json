@@ -1,0 +1,62 @@
+{
+    "app": {
+        "name": "PERT & Critical Path Analyzer",
+        "version": "0.1.0",
+        "language": "en"
+    },
+    "ocr": {
+        "engine": "tesseract",
+        "languages": ["en", "ar"],
+        "confidence_threshold": 0.5,
+        "tesseract_path": null
+    },
+    "cv": {
+        "preprocessing": {
+            "blur_kernel_size": 5,
+            "threshold_method": "adaptive",
+            "threshold_block_size": 11,
+            "threshold_c": 2,
+            "denoise_strength": 10,
+            "deskew": true
+        },
+        "shape_detection": {
+            "min_area": 500,
+            "max_area": 100000,
+            "min_circularity": 0.5,
+            "approximation_accuracy": 0.04
+        },
+        "arrow_detection": {
+            "min_line_length": 30,
+            "max_line_gap": 10,
+            "arrowhead_size": 10
+        },
+        "diagram_classification": {
+            "min_shapes_for_classification": 3,
+            "confidence_threshold": 0.6
+        }
+    },
+    "analysis": {
+        "engine": "cpm",
+        "pert_enabled": false,
+        "what_if_enabled": false
+    },
+    "gui": {
+        "theme": "light",
+        "window_width": 1400,
+        "window_height": 900,
+        "sidebar_width": 280,
+        "show_grid": true,
+        "auto_zoom": true
+    },
+    "persistence": {
+        "database_path": "data/projects.db",
+        "auto_save_interval": 300,
+        "max_recent_projects": 10
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "logs/analyzer.log",
+        "max_bytes": 10485760,
+        "backup_count": 5
+    }
+}

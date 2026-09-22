@@ -1,0 +1,3 @@
+"""
+Computer Vision tests package.
+"""

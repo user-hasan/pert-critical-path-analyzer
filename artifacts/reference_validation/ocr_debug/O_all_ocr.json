@@ -1,0 +1,266 @@
+[
+  {
+    "repr": "gray_3x",
+    "psm": 6,
+    "text": "V DE!",
+    "conf": 68.0,
+    "items": [
+      [
+        "V",
+        69
+      ],
+      [
+        "DE!",
+        67
+      ]
+    ]
+  },
+  {
+    "repr": "gray_3x",
+    "psm": 10,
+    "text": "ote",
+    "conf": 29.0,
+    "items": [
+      [
+        "ote",
+        29
+      ]
+    ]
+  },
+  {
+    "repr": "gray_3x",
+    "psm": 11,
+    "text": "DE! 1 ex",
+    "conf": 24.0,
+    "items": [
+      [
+        "DE!",
+        56
+      ],
+      [
+        "1",
+        8
+      ],
+      [
+        "ex",
+        8
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 6,
+    "text": "V Pe Tas",
+    "conf": 66.66666666666667,
+    "items": [
+      [
+        "V",
+        75
+      ],
+      [
+        "Pe",
+        39
+      ],
+      [
+        "Tas",
+        86
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 8,
+    "text": "[",
+    "conf": 86.0,
+    "items": [
+      [
+        "[",
+        86
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 10,
+    "text": "ES",
+    "conf": 48.0,
+    "items": [
+      [
+        "ES",
+        48
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 11,
+    "text": "Pe! Tas",
+    "conf": 62.0,
+    "items": [
+      [
+        "Pe!",
+        38
+      ],
+      [
+        "Tas",
+        86
+      ]
+    ]
+  },
+  {
+    "repr": "otsu_3x",
+    "psm": 13,
+    "text": "[",
+    "conf": 86.0,
+    "items": [
+      [
+        "[",
+        86
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 6,
+    "text": "V Pe Tas",
+    "conf": 68.0,
+    "items": [
+      [
+        "V",
+        72
+      ],
+      [
+        "Pe",
+        50
+      ],
+      [
+        "Tas",
+        82
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 8,
+    "text": "[",
+    "conf": 88.0,
+    "items": [
+      [
+        "[",
+        88
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 10,
+    "text": "ES",
+    "conf": 57.0,
+    "items": [
+      [
+        "ES",
+        57
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 11,
+    "text": "Pe! Tas",
+    "conf": 64.5,
+    "items": [
+      [
+        "Pe!",
+        47
+      ],
+      [
+        "Tas",
+        82
+      ]
+    ]
+  },
+  {
+    "repr": "inv_3x",
+    "psm": 13,
+    "text": "[",
+    "conf": 88.0,
+    "items": [
+      [
+        "[",
+        88
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 6,
+    "text": "Vv pes Tex",
+    "conf": 32.0,
+    "items": [
+      [
+        "Vv",
+        26
+      ],
+      [
+        "pes",
+        6
+      ],
+      [
+        "Tex",
+        64
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 8,
+    "text": "e",
+    "conf": 36.0,
+    "items": [
+      [
+        "e",
+        36
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 10,
+    "text": "e",
+    "conf": 36.0,
+    "items": [
+      [
+        "e",
+        36
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 11,
+    "text": "Pie} Tex",
+    "conf": 38.0,
+    "items": [
+      [
+        "Pie}",
+        12
+      ],
+      [
+        "Tex",
+        64
+      ]
+    ]
+  },
+  {
+    "repr": "adaptive_3x",
+    "psm": 13,
+    "text": "e",
+    "conf": 36.0,
+    "items": [
+      [
+        "e",
+        36
+      ]
+    ]
+  }
+]

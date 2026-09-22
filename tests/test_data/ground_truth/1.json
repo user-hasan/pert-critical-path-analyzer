@@ -1,0 +1,434 @@
+{
+  "schema_version": "1.0",
+  "image": "1.png",
+  "diagram_type": "AON",
+  "annotation_status": "COMPLETE",
+  "activities": [
+    {
+      "id": "A",
+      "duration": 1,
+      "position": [
+        80.0,
+        261.0
+      ],
+      "bbox": [
+        21,
+        222,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "B",
+      "duration": 2,
+      "position": [
+        236.0,
+        201.0
+      ],
+      "bbox": [
+        177,
+        162,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "C",
+      "duration": 2,
+      "position": [
+        236.0,
+        340.0
+      ],
+      "bbox": [
+        177,
+        301,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "D",
+      "duration": 3,
+      "position": [
+        393.0,
+        261.0
+      ],
+      "bbox": [
+        334,
+        222,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "E",
+      "duration": 4,
+      "position": [
+        549.0,
+        106.0
+      ],
+      "bbox": [
+        490,
+        67,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "F",
+      "duration": 4,
+      "position": [
+        549.0,
+        209.0
+      ],
+      "bbox": [
+        490,
+        170,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "G",
+      "duration": 4,
+      "position": [
+        549.0,
+        313.0
+      ],
+      "bbox": [
+        490,
+        274,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "H",
+      "duration": 4,
+      "position": [
+        549.0,
+        416.0
+      ],
+      "bbox": [
+        490,
+        377,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "I",
+      "duration": 5,
+      "position": [
+        710.0,
+        261.0
+      ],
+      "bbox": [
+        651,
+        222,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "J",
+      "duration": 5,
+      "position": [
+        857.0,
+        261.0
+      ],
+      "bbox": [
+        798,
+        222,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "K",
+      "duration": 3,
+      "position": [
+        1004.0,
+        261.0
+      ],
+      "bbox": [
+        945,
+        222,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "L",
+      "duration": 6,
+      "position": [
+        1151.0,
+        201.0
+      ],
+      "bbox": [
+        1092,
+        162,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "M",
+      "duration": 6,
+      "position": [
+        1151.0,
+        340.0
+      ],
+      "bbox": [
+        1092,
+        301,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "N",
+      "duration": 8,
+      "position": [
+        1287.0,
+        261.0
+      ],
+      "bbox": [
+        1228,
+        222,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "O",
+      "duration": 3,
+      "position": [
+        232.0,
+        541.0
+      ],
+      "bbox": [
+        173,
+        502,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "P",
+      "duration": 4,
+      "position": [
+        379.0,
+        541.0
+      ],
+      "bbox": [
+        320,
+        502,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "Q",
+      "duration": 3,
+      "position": [
+        526.0,
+        541.0
+      ],
+      "bbox": [
+        467,
+        502,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "R",
+      "duration": 2,
+      "position": [
+        673.0,
+        541.0
+      ],
+      "bbox": [
+        614,
+        502,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "S",
+      "duration": 1,
+      "position": [
+        820.0,
+        541.0
+      ],
+      "bbox": [
+        761,
+        502,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "T",
+      "duration": 2,
+      "position": [
+        967.0,
+        541.0
+      ],
+      "bbox": [
+        908,
+        502,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "U",
+      "duration": 1,
+      "position": [
+        1114.0,
+        541.0
+      ],
+      "bbox": [
+        1055,
+        502,
+        118,
+        78
+      ]
+    },
+    {
+      "id": "V",
+      "duration": 1,
+      "position": [
+        1260.0,
+        540.0
+      ],
+      "bbox": [
+        1201,
+        501,
+        118,
+        78
+      ]
+    }
+  ],
+  "events": [],
+  "dependencies": [
+    {
+      "source": "A",
+      "target": "B"
+    },
+    {
+      "source": "A",
+      "target": "C"
+    },
+    {
+      "source": "B",
+      "target": "D"
+    },
+    {
+      "source": "C",
+      "target": "D"
+    },
+    {
+      "source": "D",
+      "target": "E"
+    },
+    {
+      "source": "D",
+      "target": "F"
+    },
+    {
+      "source": "D",
+      "target": "G"
+    },
+    {
+      "source": "D",
+      "target": "H"
+    },
+    {
+      "source": "E",
+      "target": "I"
+    },
+    {
+      "source": "F",
+      "target": "I"
+    },
+    {
+      "source": "G",
+      "target": "I"
+    },
+    {
+      "source": "H",
+      "target": "I"
+    },
+    {
+      "source": "I",
+      "target": "J"
+    },
+    {
+      "source": "J",
+      "target": "K"
+    },
+    {
+      "source": "K",
+      "target": "L"
+    },
+    {
+      "source": "K",
+      "target": "M"
+    },
+    {
+      "source": "L",
+      "target": "N"
+    },
+    {
+      "source": "M",
+      "target": "N"
+    },
+    {
+      "source": "N",
+      "target": "O"
+    },
+    {
+      "source": "N",
+      "target": "P"
+    },
+    {
+      "source": "O",
+      "target": "P"
+    },
+    {
+      "source": "P",
+      "target": "Q"
+    },
+    {
+      "source": "Q",
+      "target": "R"
+    },
+    {
+      "source": "R",
+      "target": "S"
+    },
+    {
+      "source": "R",
+      "target": "T"
+    },
+    {
+      "source": "S",
+      "target": "T"
+    },
+    {
+      "source": "T",
+      "target": "U"
+    },
+    {
+      "source": "U",
+      "target": "V"
+    }
+  ],
+  "expected_activities": 22,
+  "expected_dependencies": 28,
+  "notes": "Canonical gold standard from tests/test_data/reference_diagrams/reference_aon_expected.json (verified CPM: duration=54, 16 critical paths). Positions are box centres derived from the canonical corner anchors plus the uniform renderer box size 118x78."
+}

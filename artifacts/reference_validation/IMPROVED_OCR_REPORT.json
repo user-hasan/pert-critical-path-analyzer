@@ -1,0 +1,349 @@
+{
+  "activity_ids_recognized": 13,
+  "activity_ids_total": 22,
+  "durations_recognized": 4,
+  "durations_total": 22,
+  "found_ids": [
+    "A",
+    "B",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N"
+  ],
+  "missing_ids": [
+    "O",
+    "R",
+    "V"
+  ],
+  "ambiguous_ids": [
+    [
+      "C",
+      "L"
+    ],
+    [
+      "P",
+      "U"
+    ],
+    [
+      "Q",
+      "T"
+    ],
+    [
+      "S",
+      "R"
+    ],
+    [
+      "T",
+      "Q"
+    ],
+    [
+      "U",
+      "P"
+    ]
+  ],
+  "nodes": [
+    {
+      "expected_id": "A",
+      "recognized_id": "A",
+      "confidence": 0.96,
+      "duration": 6.0,
+      "dur_confidence": 0.15,
+      "alternatives": [
+        [
+          "P",
+          0.21
+        ],
+        [
+          "G",
+          0.105
+        ]
+      ],
+      "node_id": "cnode_839f4079"
+    },
+    {
+      "expected_id": "B",
+      "recognized_id": "B",
+      "confidence": 0.91,
+      "duration": 2.0,
+      "dur_confidence": 0.8,
+      "alternatives": [
+        [
+          "Z",
+          0.5599999999999999
+        ],
+        [
+          "Y",
+          0.38
+        ]
+      ],
+      "node_id": "cnode_a9da1622"
+    },
+    {
+      "expected_id": "C",
+      "recognized_id": "L",
+      "confidence": 0.0,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_729f9af9"
+    },
+    {
+      "expected_id": "D",
+      "recognized_id": "D",
+      "confidence": 0.91,
+      "duration": 2.0,
+      "dur_confidence": 0.94,
+      "alternatives": [
+        [
+          "F",
+          0.79
+        ],
+        [
+          "Z",
+          0.6579999999999999
+        ],
+        [
+          "B",
+          0.077
+        ]
+      ],
+      "node_id": "cnode_c891ee94"
+    },
+    {
+      "expected_id": "E",
+      "recognized_id": "E",
+      "confidence": 0.92,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_27eb21ad"
+    },
+    {
+      "expected_id": "F",
+      "recognized_id": "F",
+      "confidence": 0.92,
+      "duration": 4.0,
+      "dur_confidence": 0.26,
+      "alternatives": [],
+      "node_id": "cnode_130e676d"
+    },
+    {
+      "expected_id": "G",
+      "recognized_id": "G",
+      "confidence": 0.9,
+      "duration": 5.0,
+      "dur_confidence": 0.27,
+      "alternatives": [
+        [
+          "J",
+          0.69
+        ],
+        [
+          "S",
+          0.189
+        ]
+      ],
+      "node_id": "cnode_6c505d4d"
+    },
+    {
+      "expected_id": "H",
+      "recognized_id": "H",
+      "confidence": 0.93,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [
+        [
+          "J",
+          0.47
+        ]
+      ],
+      "node_id": "cnode_6ac52818"
+    },
+    {
+      "expected_id": "I",
+      "recognized_id": "I",
+      "confidence": 0.7,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [
+        [
+          "F",
+          0.58
+        ]
+      ],
+      "node_id": "cnode_0c7d8dea"
+    },
+    {
+      "expected_id": "J",
+      "recognized_id": "J",
+      "confidence": 0.96,
+      "duration": 4.0,
+      "dur_confidence": 0.66,
+      "alternatives": [
+        [
+          "F",
+          0.25
+        ]
+      ],
+      "node_id": "cnode_6d91db49"
+    },
+    {
+      "expected_id": "K",
+      "recognized_id": "K",
+      "confidence": 0.93,
+      "duration": 3.0,
+      "dur_confidence": 0.11,
+      "alternatives": [
+        [
+          "X",
+          0.23
+        ],
+        [
+          "B",
+          0.077
+        ]
+      ],
+      "node_id": "cnode_9f71b730"
+    },
+    {
+      "expected_id": "L",
+      "recognized_id": "L",
+      "confidence": 0.93,
+      "duration": 6.0,
+      "dur_confidence": 0.77,
+      "alternatives": [
+        [
+          "G",
+          0.5389999999999999
+        ]
+      ],
+      "node_id": "cnode_a29251fa"
+    },
+    {
+      "expected_id": "M",
+      "recognized_id": "M",
+      "confidence": 0.62,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [
+        [
+          "J",
+          0.58
+        ],
+        [
+          "A",
+          0.13
+        ],
+        [
+          "Z",
+          0.0
+        ]
+      ],
+      "node_id": "cnode_491827b8"
+    },
+    {
+      "expected_id": "N",
+      "recognized_id": "N",
+      "confidence": 0.92,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_a002aa6e"
+    },
+    {
+      "expected_id": "O",
+      "recognized_id": null,
+      "confidence": 0.0,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_91f6d448"
+    },
+    {
+      "expected_id": "P",
+      "recognized_id": "U",
+      "confidence": 0.89,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_f8444835"
+    },
+    {
+      "expected_id": "Q",
+      "recognized_id": "T",
+      "confidence": 0.92,
+      "duration": 5.0,
+      "dur_confidence": 0.17,
+      "alternatives": [
+        [
+          "V",
+          0.35
+        ],
+        [
+          "S",
+          0.119
+        ]
+      ],
+      "node_id": "cnode_d028875e"
+    },
+    {
+      "expected_id": "R",
+      "recognized_id": null,
+      "confidence": 0.0,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_ac47e084"
+    },
+    {
+      "expected_id": "S",
+      "recognized_id": "R",
+      "confidence": 0.92,
+      "duration": 2.0,
+      "dur_confidence": 0.14,
+      "alternatives": [
+        [
+          "Z",
+          0.098
+        ]
+      ],
+      "node_id": "cnode_e3df218a"
+    },
+    {
+      "expected_id": "T",
+      "recognized_id": "Q",
+      "confidence": 0.91,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_bc7cb786"
+    },
+    {
+      "expected_id": "U",
+      "recognized_id": "P",
+      "confidence": 0.89,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_9799d92a"
+    },
+    {
+      "expected_id": "V",
+      "recognized_id": null,
+      "confidence": 0.0,
+      "duration": null,
+      "dur_confidence": null,
+      "alternatives": [],
+      "node_id": "cnode_c5f691b9"
+    }
+  ],
+  "ocr_time": 61.26571774482727
+}
