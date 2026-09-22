@@ -1,5 +1,7 @@
 # PERT & Critical Path Analyzer
 
+[![CI](https://github.com/user-hasan/pert-critical-path-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/user-hasan/pert-critical-path-analyzer/actions/workflows/ci.yml)
+
 > Desktop application that analyzes project network diagrams (AON / AOA) from images using Computer Vision + OCR, then computes the Critical Path (CPM) and PERT estimates.
 > Supervisor: Dr. Adel Al-Afeery
 
