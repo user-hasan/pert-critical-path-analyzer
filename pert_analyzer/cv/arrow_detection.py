@@ -390,7 +390,12 @@ class ArrowDetector(ArrowDetectorABC):
             return segments
 
         for line in lines:
-            x1, y1, x2, y2 = line[0]
+            # HoughLinesP output shape varies by OpenCV version:
+            # (N, 1, 4) on older builds, (N, 4) on newer ones.
+            coords = np.asarray(line).reshape(-1)
+            if coords.size != 4:
+                continue
+            x1, y1, x2, y2 = (int(v) for v in coords)
 
             start = Point(float(x1), float(y1))
             end = Point(float(x2), float(y2))
